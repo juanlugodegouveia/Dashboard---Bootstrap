@@ -1,8 +1,8 @@
 # Front End Dashboard - Boostrap.
 
-Dashboard creado con Boostrap, demostrando los beneficios brindados por el sistema de grillas.
+Dashboard created with Boostrap, demonstrating the benefits provided by the grid system.
 
-Vista Previa: https://juanlugodegouveia.github.io/Dashboard---Bootstrap/
+Preview: https://juanlugodegouveia.github.io/Dashboard---Bootstrap/
 
 ## Copyright
 
